@@ -1,3 +1,3 @@
 # Chiggy
 
-a Scrapy crawler for Chicago locals.
+a set of *Scrapy* crawlers for Chicago locals.
