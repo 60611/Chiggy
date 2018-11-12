@@ -2,3 +2,9 @@
 *tar*
 *.pyc
 lab/
+*.odt
+*.ods
+*.tmp
+*.db.py
+.TMP/
+.db/
