@@ -1,3 +1,5 @@
 # Chiggy
 
-a set of *Scrapy* crawlers for Chicago locals.
+a set of  apps/scripts made by & for Chicago locals.
+
+*Scrapy* crawlers
