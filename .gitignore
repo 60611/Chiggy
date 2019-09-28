@@ -1,10 +1,10 @@
 *#
 *tar*
 *.pyc
-lab/
+.Lab/
+env/
 *.odt
 *.ods
 *.tmp
-*.db.py
 .TMP/
 .db/
